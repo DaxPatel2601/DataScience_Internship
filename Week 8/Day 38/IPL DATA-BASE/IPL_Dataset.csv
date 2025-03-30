@@ -1,0 +1,151 @@
+Match_ID,Date,Team1,Team2,Winner,Runs_Team1,Runs_Team2,Wickets_Team1,Wickets_Team2,Player_of_Match,Venue,Season
+2022_0001,02-03-2022,MI,DC,MI,224,221,10,4,Pat Cummins,Wankhede Stadium,2022
+2022_0002,03-03-2022,MI,RR,RR,158,169,8,8,Liam Livingstone,Wankhede Stadium,2022
+2022_0003,04-03-2022,CSK,DC,CSK,232,228,5,3,Rohit Sharma,Narendra Modi Stadium,2022
+2022_0004,05-03-2022,LSG,KKR,KKR,199,226,4,6,Liam Livingstone,Wankhede Stadium,2022
+2022_0005,06-03-2022,MI,DC,MI,221,211,8,6,Andre Russell,Rajiv Gandhi International Stadium,2022
+2022_0006,07-03-2022,GT,KKR,KKR,195,198,7,8,Marcus Stoinis,Chinnaswamy Stadium,2022
+2022_0007,08-03-2022,DC,CSK,CSK,176,185,9,10,Heinrich Klaasen,BRSABV Ekana Cricket Stadium,2022
+2022_0008,09-03-2022,RR,LSG,LSG,212,217,8,9,Jasprit Bumrah,Sawai Mansingh Stadium,2022
+2022_0009,10-03-2022,LSG,GT,GT,198,201,8,4,Rashid Khan,M.A. Chidambaram Stadium,2022
+2022_0010,11-03-2022,MI,DC,DC,239,248,4,3,Rohit Sharma,Sawai Mansingh Stadium,2022
+2022_0011,12-03-2022,SRH,MI,SRH,186,180,5,4,Rashid Khan,Narendra Modi Stadium,2022
+2022_0012,13-03-2022,SRH,KKR,KKR,187,240,3,5,Marcus Stoinis,Chinnaswamy Stadium,2022
+2022_0013,14-03-2022,KKR,PBKS,PBKS,234,239,8,7,Rashid Khan,Sawai Mansingh Stadium,2022
+2022_0014,15-03-2022,CSK,SRH,CSK,178,175,7,4,Heinrich Klaasen,Wankhede Stadium,2022
+2022_0015,16-03-2022,SRH,PBKS,SRH,227,221,6,8,Hardik Pandya,M.A. Chidambaram Stadium,2022
+2022_0016,17-03-2022,RCB,MI,MI,153,160,10,8,Marcus Stoinis,Narendra Modi Stadium,2022
+2022_0017,18-03-2022,KKR,DC,DC,160,204,8,9,Aiden Markram,BRSABV Ekana Cricket Stadium,2022
+2022_0018,19-03-2022,CSK,MI,MI,231,234,8,5,Shubman Gill,BRSABV Ekana Cricket Stadium,2022
+2022_0019,20-03-2022,RCB,GT,RCB,199,191,9,4,David Warner,Arun Jaitley Stadium,2022
+2022_0020,21-03-2022,RR,GT,GT,168,169,8,5,Pat Cummins,Eden Gardens,2022
+2022_0021,22-03-2022,MI,GT,MI,220,186,5,5,Virat Kohli,PCA Stadium,2022
+2022_0022,23-03-2022,LSG,GT,LSG,194,189,8,4,Liam Livingstone,Wankhede Stadium,2022
+2022_0023,24-03-2022,MI,RR,RR,162,166,6,5,Andre Russell,BRSABV Ekana Cricket Stadium,2022
+2022_0024,25-03-2022,RR,DC,RR,176,168,6,7,Aiden Markram,Arun Jaitley Stadium,2022
+2022_0025,26-03-2022,CSK,SRH,SRH,192,212,8,8,Rashid Khan,M.A. Chidambaram Stadium,2022
+2022_0026,27-03-2022,CSK,KKR,CSK,225,220,7,3,KL Rahul,BRSABV Ekana Cricket Stadium,2022
+2022_0027,28-03-2022,GT,RCB,GT,214,210,4,4,Faf du Plessis,Narendra Modi Stadium,2022
+2022_0028,29-03-2022,KKR,GT,KKR,229,142,5,6,Liam Livingstone,Rajiv Gandhi International Stadium,2022
+2022_0029,30-03-2022,CSK,LSG,CSK,216,212,9,7,Aiden Markram,Sawai Mansingh Stadium,2022
+2022_0030,31-03-2022,PBKS,GT,PBKS,235,207,8,5,Ruturaj Gaikwad,Sawai Mansingh Stadium,2022
+2022_0031,01-03-2022,RR,PBKS,RR,194,186,8,9,MS Dhoni,Narendra Modi Stadium,2022
+2022_0032,02-03-2022,RCB,DC,RCB,201,200,9,9,KL Rahul,Sawai Mansingh Stadium,2022
+2022_0033,03-03-2022,RCB,GT,RCB,228,221,4,4,KL Rahul,Eden Gardens,2022
+2022_0034,04-03-2022,LSG,DC,DC,216,221,7,10,Sanju Samson,Sawai Mansingh Stadium,2022
+2022_0035,05-03-2022,MI,RCB,RCB,240,242,3,4,Heinrich Klaasen,BRSABV Ekana Cricket Stadium,2022
+2022_0036,06-03-2022,LSG,PBKS,PBKS,140,194,7,5,Ruturaj Gaikwad,Narendra Modi Stadium,2022
+2022_0037,07-03-2022,KKR,RR,KKR,207,161,5,7,Marcus Stoinis,M.A. Chidambaram Stadium,2022
+2022_0038,08-03-2022,RR,SRH,RR,194,162,5,6,Jasprit Bumrah,Sawai Mansingh Stadium,2022
+2022_0039,09-03-2022,RR,LSG,LSG,165,237,10,7,Marcus Stoinis,Narendra Modi Stadium,2022
+2022_0040,10-03-2022,MI,PBKS,PBKS,148,185,7,4,Jasprit Bumrah,Arun Jaitley Stadium,2022
+2022_0041,11-03-2022,LSG,PBKS,LSG,197,187,5,10,Liam Livingstone,M.A. Chidambaram Stadium,2022
+2022_0042,12-03-2022,RCB,PBKS,RCB,235,226,9,10,Pat Cummins,Wankhede Stadium,2022
+2022_0043,13-03-2022,GT,KKR,GT,199,162,9,7,Liam Livingstone,Rajiv Gandhi International Stadium,2022
+2022_0044,14-03-2022,GT,CSK,GT,189,151,3,3,Sunil Narine,Eden Gardens,2022
+2022_0045,15-03-2022,SRH,LSG,SRH,237,231,6,5,Marcus Stoinis,Rajiv Gandhi International Stadium,2022
+2022_0046,16-03-2022,MI,CSK,CSK,151,156,5,6,Sunil Narine,PCA Stadium,2022
+2022_0047,17-03-2022,CSK,MI,CSK,242,239,3,7,Shubman Gill,Arun Jaitley Stadium,2022
+2022_0048,18-03-2022,DC,KKR,KKR,192,225,6,3,Aiden Markram,Rajiv Gandhi International Stadium,2022
+2022_0049,19-03-2022,RCB,LSG,LSG,164,169,10,7,Sanju Samson,Narendra Modi Stadium,2022
+2022_0050,20-03-2022,RR,PBKS,RR,219,215,8,9,Pat Cummins,M.A. Chidambaram Stadium,2022
+2023_0001,02-03-2023,SRH,DC,SRH,238,231,7,10,Pat Cummins,Eden Gardens,2023
+2023_0002,03-03-2023,MI,CSK,CSK,232,233,3,10,Sunil Narine,Eden Gardens,2023
+2023_0003,04-03-2023,MI,SRH,SRH,143,149,10,5,Hardik Pandya,Wankhede Stadium,2023
+2023_0004,05-03-2023,RCB,CSK,CSK,221,224,6,6,Rashid Khan,Wankhede Stadium,2023
+2023_0005,06-03-2023,PBKS,DC,DC,144,182,7,10,MS Dhoni,Rajiv Gandhi International Stadium,2023
+2023_0006,07-03-2023,RCB,SRH,RCB,207,194,9,8,Sanju Samson,PCA Stadium,2023
+2023_0007,08-03-2023,RCB,KKR,KKR,178,190,9,5,Heinrich Klaasen,Narendra Modi Stadium,2023
+2023_0008,09-03-2023,KKR,MI,KKR,239,229,8,9,Virat Kohli,Rajiv Gandhi International Stadium,2023
+2023_0009,10-03-2023,KKR,RCB,RCB,208,214,7,8,Aiden Markram,Sawai Mansingh Stadium,2023
+2023_0010,11-03-2023,MI,SRH,SRH,214,216,10,4,Marcus Stoinis,Narendra Modi Stadium,2023
+2023_0011,12-03-2023,DC,SRH,DC,197,187,7,8,Shubman Gill,Narendra Modi Stadium,2023
+2023_0012,13-03-2023,CSK,PBKS,PBKS,144,230,6,4,Liam Livingstone,Narendra Modi Stadium,2023
+2023_0013,14-03-2023,CSK,MI,CSK,199,194,8,7,David Warner,PCA Stadium,2023
+2023_0014,15-03-2023,SRH,LSG,SRH,191,164,10,6,Rashid Khan,Wankhede Stadium,2023
+2023_0015,16-03-2023,PBKS,GT,GT,220,227,5,4,Heinrich Klaasen,Rajiv Gandhi International Stadium,2023
+2023_0016,17-03-2023,RR,LSG,LSG,195,218,3,9,Liam Livingstone,M.A. Chidambaram Stadium,2023
+2023_0017,18-03-2023,RCB,KKR,KKR,232,239,4,8,Faf du Plessis,Chinnaswamy Stadium,2023
+2023_0018,19-03-2023,SRH,RCB,RCB,187,190,9,6,Ruturaj Gaikwad,PCA Stadium,2023
+2023_0019,20-03-2023,LSG,SRH,SRH,155,162,10,3,Rohit Sharma,Narendra Modi Stadium,2023
+2023_0020,21-03-2023,KKR,RCB,KKR,203,196,9,4,Heinrich Klaasen,Sawai Mansingh Stadium,2023
+2023_0021,22-03-2023,GT,PBKS,GT,235,231,3,10,Rohit Sharma,Arun Jaitley Stadium,2023
+2023_0022,23-03-2023,KKR,GT,KKR,242,236,5,9,MS Dhoni,Rajiv Gandhi International Stadium,2023
+2023_0023,24-03-2023,GT,DC,DC,204,208,4,4,KL Rahul,Wankhede Stadium,2023
+2023_0024,25-03-2023,RCB,RR,RCB,237,185,7,9,Virat Kohli,Sawai Mansingh Stadium,2023
+2023_0025,26-03-2023,RCB,GT,RCB,233,224,7,9,Yuzvendra Chahal,M.A. Chidambaram Stadium,2023
+2023_0026,27-03-2023,RR,DC,DC,230,237,4,9,Sunil Narine,Sawai Mansingh Stadium,2023
+2023_0027,28-03-2023,GT,RR,RR,206,209,7,7,Liam Livingstone,Chinnaswamy Stadium,2023
+2023_0028,29-03-2023,MI,RCB,RCB,161,235,9,3,Rohit Sharma,Eden Gardens,2023
+2023_0029,30-03-2023,CSK,LSG,CSK,215,214,6,5,Ruturaj Gaikwad,M.A. Chidambaram Stadium,2023
+2023_0030,31-03-2023,PBKS,SRH,PBKS,214,161,6,4,Hardik Pandya,PCA Stadium,2023
+2023_0031,01-03-2023,LSG,PBKS,PBKS,149,203,10,5,Heinrich Klaasen,Sawai Mansingh Stadium,2023
+2023_0032,02-03-2023,LSG,RR,LSG,241,233,5,8,Shubman Gill,BRSABV Ekana Cricket Stadium,2023
+2023_0033,03-03-2023,GT,RR,GT,223,179,10,9,Liam Livingstone,Wankhede Stadium,2023
+2023_0034,04-03-2023,GT,SRH,SRH,237,247,4,3,Rashid Khan,Chinnaswamy Stadium,2023
+2023_0035,05-03-2023,GT,CSK,GT,189,179,5,8,Jasprit Bumrah,Narendra Modi Stadium,2023
+2023_0036,06-03-2023,DC,CSK,CSK,161,217,9,5,Aiden Markram,Narendra Modi Stadium,2023
+2023_0037,07-03-2023,MI,LSG,MI,223,148,6,3,Virat Kohli,M.A. Chidambaram Stadium,2023
+2023_0038,08-03-2023,GT,RR,RR,195,197,9,10,Rashid Khan,Narendra Modi Stadium,2023
+2023_0039,09-03-2023,DC,SRH,SRH,203,209,3,8,MS Dhoni,Sawai Mansingh Stadium,2023
+2023_0040,10-03-2023,GT,CSK,GT,200,145,6,7,KL Rahul,M.A. Chidambaram Stadium,2023
+2023_0041,11-03-2023,PBKS,CSK,PBKS,227,201,6,3,Hardik Pandya,Rajiv Gandhi International Stadium,2023
+2023_0042,12-03-2023,PBKS,GT,GT,203,211,3,4,Rohit Sharma,Narendra Modi Stadium,2023
+2023_0043,13-03-2023,RCB,SRH,RCB,200,196,8,10,Sanju Samson,Eden Gardens,2023
+2023_0044,14-03-2023,SRH,RR,RR,142,203,9,4,Sunil Narine,Rajiv Gandhi International Stadium,2023
+2023_0045,15-03-2023,PBKS,KKR,KKR,176,181,5,6,Sunil Narine,Sawai Mansingh Stadium,2023
+2023_0046,16-03-2023,DC,LSG,DC,185,154,7,10,Yuzvendra Chahal,Sawai Mansingh Stadium,2023
+2023_0047,17-03-2023,DC,RR,DC,220,196,8,10,Aiden Markram,M.A. Chidambaram Stadium,2023
+2023_0048,18-03-2023,PBKS,DC,DC,222,234,10,3,Virat Kohli,Wankhede Stadium,2023
+2023_0049,19-03-2023,RR,PBKS,PBKS,147,152,10,5,Jasprit Bumrah,BRSABV Ekana Cricket Stadium,2023
+2023_0050,20-03-2023,SRH,RR,SRH,207,202,9,3,Aiden Markram,M.A. Chidambaram Stadium,2023
+2024_0001,02-03-2024,SRH,CSK,CSK,216,227,6,9,KL Rahul,Narendra Modi Stadium,2024
+2024_0002,03-03-2024,MI,PBKS,PBKS,185,225,5,5,Rohit Sharma,Eden Gardens,2024
+2024_0003,04-03-2024,RR,DC,DC,177,214,3,8,Ruturaj Gaikwad,PCA Stadium,2024
+2024_0004,05-03-2024,GT,MI,GT,192,187,4,8,David Warner,Wankhede Stadium,2024
+2024_0005,06-03-2024,KKR,MI,MI,182,233,4,8,Faf du Plessis,Arun Jaitley Stadium,2024
+2024_0006,07-03-2024,MI,SRH,MI,188,182,10,4,Ruturaj Gaikwad,Eden Gardens,2024
+2024_0007,08-03-2024,RR,GT,GT,140,164,7,5,Virat Kohli,Sawai Mansingh Stadium,2024
+2024_0008,09-03-2024,PBKS,KKR,PBKS,221,212,5,5,Andre Russell,Eden Gardens,2024
+2024_0009,10-03-2024,KKR,LSG,LSG,220,226,7,10,Andre Russell,PCA Stadium,2024
+2024_0010,11-03-2024,RCB,RR,RCB,183,177,8,9,Jasprit Bumrah,Rajiv Gandhi International Stadium,2024
+2024_0011,12-03-2024,KKR,LSG,LSG,201,202,8,8,Sunil Narine,Arun Jaitley Stadium,2024
+2024_0012,13-03-2024,MI,DC,MI,199,197,9,6,Hardik Pandya,BRSABV Ekana Cricket Stadium,2024
+2024_0013,14-03-2024,DC,CSK,CSK,208,239,3,8,Sunil Narine,Sawai Mansingh Stadium,2024
+2024_0014,15-03-2024,MI,RCB,MI,219,201,8,4,Andre Russell,Wankhede Stadium,2024
+2024_0015,16-03-2024,CSK,RCB,CSK,213,203,5,3,Sunil Narine,Chinnaswamy Stadium,2024
+2024_0016,17-03-2024,SRH,DC,DC,166,212,4,8,Pat Cummins,Eden Gardens,2024
+2024_0017,18-03-2024,DC,SRH,SRH,171,180,7,9,Faf du Plessis,Eden Gardens,2024
+2024_0018,19-03-2024,DC,RR,RR,206,223,7,9,Ruturaj Gaikwad,Sawai Mansingh Stadium,2024
+2024_0019,20-03-2024,RR,PBKS,PBKS,163,176,6,4,Liam Livingstone,Sawai Mansingh Stadium,2024
+2024_0020,21-03-2024,RCB,PBKS,PBKS,198,200,5,4,MS Dhoni,Eden Gardens,2024
+2024_0021,22-03-2024,RCB,GT,GT,208,215,3,3,Sunil Narine,Narendra Modi Stadium,2024
+2024_0022,23-03-2024,DC,MI,MI,162,195,7,5,David Warner,Rajiv Gandhi International Stadium,2024
+2024_0023,24-03-2024,DC,GT,GT,160,223,9,10,Heinrich Klaasen,Narendra Modi Stadium,2024
+2024_0024,25-03-2024,LSG,RR,LSG,218,215,8,4,Sanju Samson,Wankhede Stadium,2024
+2024_0025,26-03-2024,LSG,GT,LSG,215,211,9,5,Faf du Plessis,BRSABV Ekana Cricket Stadium,2024
+2024_0026,27-03-2024,SRH,KKR,KKR,235,237,5,7,David Warner,Chinnaswamy Stadium,2024
+2024_0027,28-03-2024,DC,SRH,SRH,167,180,7,4,Shubman Gill,Wankhede Stadium,2024
+2024_0028,29-03-2024,RCB,RR,RCB,231,152,9,3,Virat Kohli,M.A. Chidambaram Stadium,2024
+2024_0029,30-03-2024,MI,CSK,MI,239,192,6,5,Rashid Khan,M.A. Chidambaram Stadium,2024
+2024_0030,31-03-2024,DC,RCB,RCB,191,203,9,9,MS Dhoni,Eden Gardens,2024
+2024_0031,01-03-2024,RR,SRH,SRH,171,227,4,10,Jasprit Bumrah,Narendra Modi Stadium,2024
+2024_0032,02-03-2024,RCB,CSK,RCB,231,223,4,10,KL Rahul,Eden Gardens,2024
+2024_0033,03-03-2024,GT,DC,DC,219,229,4,3,Ruturaj Gaikwad,Wankhede Stadium,2024
+2024_0034,04-03-2024,CSK,GT,GT,141,240,3,8,Yuzvendra Chahal,M.A. Chidambaram Stadium,2024
+2024_0035,05-03-2024,SRH,LSG,SRH,196,186,5,4,Hardik Pandya,PCA Stadium,2024
+2024_0036,06-03-2024,SRH,CSK,CSK,218,235,6,5,Aiden Markram,PCA Stadium,2024
+2024_0037,07-03-2024,RCB,GT,GT,182,189,9,6,MS Dhoni,Wankhede Stadium,2024
+2024_0038,08-03-2024,KKR,CSK,KKR,219,161,7,8,Shubman Gill,Narendra Modi Stadium,2024
+2024_0039,09-03-2024,MI,GT,GT,142,232,10,9,MS Dhoni,BRSABV Ekana Cricket Stadium,2024
+2024_0040,10-03-2024,GT,PBKS,GT,145,144,8,6,Andre Russell,Sawai Mansingh Stadium,2024
+2024_0041,11-03-2024,DC,PBKS,PBKS,184,216,9,6,Hardik Pandya,Narendra Modi Stadium,2024
+2024_0042,12-03-2024,SRH,PBKS,SRH,238,229,6,8,Sanju Samson,Eden Gardens,2024
+2024_0043,13-03-2024,RCB,CSK,RCB,221,190,9,6,Faf du Plessis,Narendra Modi Stadium,2024
+2024_0044,14-03-2024,KKR,SRH,SRH,207,217,8,5,Aiden Markram,Sawai Mansingh Stadium,2024
+2024_0045,15-03-2024,CSK,KKR,CSK,223,200,5,9,Shubman Gill,Chinnaswamy Stadium,2024
+2024_0046,16-03-2024,SRH,GT,GT,161,206,10,8,Sunil Narine,BRSABV Ekana Cricket Stadium,2024
+2024_0047,17-03-2024,DC,MI,MI,224,232,7,5,Marcus Stoinis,Chinnaswamy Stadium,2024
+2024_0048,18-03-2024,RCB,GT,GT,208,215,3,7,Pat Cummins,BRSABV Ekana Cricket Stadium,2024
+2024_0049,19-03-2024,RR,RCB,RCB,170,176,8,4,Pat Cummins,Wankhede Stadium,2024
+2024_0050,20-03-2024,MI,DC,DC,147,201,5,3,Pat Cummins,Rajiv Gandhi International Stadium,2024

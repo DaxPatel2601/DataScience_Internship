@@ -1,0 +1,6 @@
+Customer_ID,Rating,Review Comment
+C001,5,"""Superb performance, very satisfied!"""
+C002,4,"""Good features, but battery drains fast."""
+C004,2,"""Not happy, received a faulty product."""
+C006,3,"""Average product, could be better."""
+C007,5,"""Excellent service and fast delivery!"""

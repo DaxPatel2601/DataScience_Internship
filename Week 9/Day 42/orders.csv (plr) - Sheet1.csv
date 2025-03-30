@@ -1,0 +1,8 @@
+orders,id,amount
+daily_orders,1,44500
+half weekly orders,2,127000
+weekly orders,3,304500
+half monthly orders,4,667500
+monthly orders,5,1350000
+half quarterly order,6,2047500
+quarterly orders,7,4041000

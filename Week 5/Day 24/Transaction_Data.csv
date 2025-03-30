@@ -1,0 +1,6 @@
+Customer_ID,Name,City,Product,Price (₹),Purchase_Date
+C001,Aarav,Mumbai,Laptop,"75,000",2025-01-10
+C002,Priya,Delhi,Smartphone,"45,000",2025-02-05
+C003,Rohan,Bangalore,Tablet,"25,000",2025-02-20
+C004,Kavya,Hyderabad,Smartwatch,"10,000",2025-03-02
+C005,Ananya,Chennai,Headphones,"3,500",2025-03-15

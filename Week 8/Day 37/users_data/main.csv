@@ -1,0 +1,3 @@
+No,Name,Number,Email,Gender,Age,Education,Technology,Place,Mode,Skills,Experience,Current Position,Linkedin Link,Github Link,Resume
+1,Abc,1234567890,Abc@gmail.com,Transgender,30,B.E.,Web Development,['Gandhinagar'],Internship,['Numpy'],0,It's optional ,Link ,Link ,SkillsBuild.pdf
+2,Jay,9958465198,jay@gmail.com,Male,30,B.Tech,App Development,"['Aheamdabad', 'Gandhinagar']",On-Side,"['Seaborn', 'Matplotlib', 'Pandas', 'Sql', 'Python']",3,no,link,link,Invoice-9715.pdf

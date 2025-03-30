@@ -1,0 +1,112 @@
+Aryabhata
+Bhaskara-I
+Rohini Technology Payload (RTP)
+Rohini Satellite RS-1
+Rohini Satellite RS-D1
+APPLE
+Bhaskara-II
+INSAT-1A
+Rohini Satellite RS-D2
+INSAT-1B
+SROSS-1
+IRS-1A
+SROSS-2
+INSAT-1C
+INSAT-1D
+IRS-1B
+SROSS-C
+INSAT-2A
+INSAT-2B
+IRS-1E
+SROSS-C2
+IRS-P2
+INSAT-2C
+IRS-1C
+IRS-P3
+INSAT-2D
+IRS-1D
+INSAT-2E
+Oceansat(IRS-P4)
+INSAT-3B
+GSAT-1
+The Technology Experiment Satellite (TES)
+INSAT-3C
+KALPANA-1
+INSAT-3A
+GSAT-2
+INSAT-3E
+IRS-P6 / RESOURCESAT-1
+EDUSAT
+HAMSAT
+CARTOSAT-1
+INSAT-4A
+INSAT-4C
+SRE-1
+CARTOSAT-2
+INSAT-4B
+INSAT-4CR
+CARTOSAT – 2A
+IMS-1
+Chandrayaan-1
+RISAT-2
+Oceansat-2
+GSAT-4
+CARTOSAT-2B
+GSAT-5P
+YOUTHSAT
+RESOURCESAT-2
+GSAT-8
+GSAT-12
+Megha-Tropiques
+RISAT-1
+GSAT-10
+SARAL
+IRNSS-1A
+INSAT-3D
+GSAT-7
+Mars Orbiter Mission Spacecraft
+GSAT-14
+IRNSS-1B
+IRNSS-1C
+GSAT-16
+Crew module Atmospheric Re-entry Experiment (CARE)
+IRNSS-1D
+GSAT-6
+Astrosat
+GSAT-15
+IRNSS-1E
+IRNSS-1F
+IRNSS-1G
+CARTOSAT-2 Series Satellite
+INSAT-3DR
+SCATSAT-1
+GSAT-18
+RESOURCESAT-2A
+INS-1B
+INS-1A
+Cartosat -2 Series Satellite
+GSAT-9
+GSAT-19
+Cartosat-2 Series Satellite
+GSAT-17
+IRNSS-1H
+INS-1C
+Cartosat-2 Series Satellite
+Microsat
+GSAT-6A
+IRNSS-1I
+GSAT-29
+HysIS
+GSAT-11 Mission
+GSAT-7A
+Microsat-R
+GSAT-31
+EMISAT
+RISAT-2B
+Chandrayaan2
+Cartosat-3
+RISAT-2BR1
+GSAT-30
+EOS-01
+CMS-01
+EOS-03

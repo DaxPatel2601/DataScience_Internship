@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="200b9912-0106-4474-9462-f773d038c16b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Data-Science-Internship" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DaxPatel2601/Data-Science-Internship.git&quot;,
+    &quot;accountId&quot;: &quot;e5cfde90-23ad-470e-af80-0c13dc85896a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hello.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rsV9DApvdGqt7HY72atoeaMKO9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.API_numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_numpy_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_numpy_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_numpy_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_numpy_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_numpy_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment_4.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CRICKET_DATA_ANALYTICS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DICTIONARY_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_visu_matplotlib_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_visu_matplotlib_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_visu_matplotlib_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_visu_matplotlib_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Excel_numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Excel_numpy_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Excel_to_Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loan_predict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplolib_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplolib_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplotlib_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplotlib_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplotlib_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numpy_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numpy_practice_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practical_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practical_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practical_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SALES_DATA_ANALYSIS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Statical_Operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aaa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array_manipulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolean_masking_&amp;_filtering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car_price_prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covid-pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covid_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covid_pandas_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_analytics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_analytics_numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_vis_matplotlib_practise_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_vis_matplotlib_practise_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_visu_matplotlib_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_visu_matplotlib_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_visu_matplotlib_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_visu_matplotlib_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_visu_matplotlib_pacticse_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_visu_matplotlib_practise_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decision_macking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decision_macking_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decision_macking_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diabites_dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_exersise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encoding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extra_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.face_detaction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph_practicale_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.haar_cascade_opencv_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.haar_cascade_opencv_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indexing_slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isro_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_color_change.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_open_cv_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.masking_opencv_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib_practical_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib_practical_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib_practical_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matplotlib_practical_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mutual_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.np_methos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy_prsctice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_cv_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.otp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paractical_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pillow_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pillow_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.poli_linear_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practial_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practical_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.progress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project_dashboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_forest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.salary_prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.serse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.statistics_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.streamlit_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.szfsf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tennis_play_prediction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tupl_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xlrd_practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DAKSH/PycharmProjects/PythonProject/new_project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 8\Day 38" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 8\Day 37\login_signup" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 8\Day 37" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Day 7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 8\Day 36" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 7" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 7\Day 32" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 7\Day 31" />
+      <recent name="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 7\Day 31\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.haar_cascade_opencv_1">
+    <configuration name="haar_cascade_opencv_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 7/Day 31" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 7/Day 31/haar_cascade_opencv_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="open_cv_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 6/Day 28" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\DAKSH\PycharmProjects\PythonProject\new_project\Week 6\Day 28\open_cv_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.haar_cascade_opencv_1" />
+        <item itemvalue="Python.open_cv_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200b9912-0106-4474-9462-f773d038c16b" name="Changes" comment="" />
+      <created>1737347615830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737347615830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
